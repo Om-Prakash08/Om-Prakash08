@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs, express, React, SQL, MongoDb**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/drive/folders/1itcLvZtB4XlQhzWNA8cRNtReMQGvYnOx)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1P4pA39wLYo9KcMTGMillrdqqVWAappuQ/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
